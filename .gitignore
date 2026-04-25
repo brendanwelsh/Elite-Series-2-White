@@ -1,0 +1,6 @@
+# Upstream repo clone (kept locally for reference, not part of this fork)
+source/
+
+# Working scratch dir
+build/
+
